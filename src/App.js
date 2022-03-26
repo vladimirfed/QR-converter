@@ -17,7 +17,6 @@ function App() {
           className="form__input"
           id="name"
           placeholder="Enter  the link"
-          required=""
         />
         <QRCode 
           className="App"
